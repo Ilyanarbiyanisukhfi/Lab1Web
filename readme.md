@@ -11,4 +11,4 @@
 #### 8.menambahkan komentar
 #### 10.menggabungkan semua elemen
 
-![image alt]()
+![image alt](https://github.com/Ilyanarbiyanisukhfi/Lab1Web/blob/main/modul-praktikum-1/img/hasilpraktik.png.png?raw=true)
